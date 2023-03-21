@@ -1,0 +1,11 @@
+{
+  "appId": "ProjectName",
+  "name": "ProjectName",
+  "displayName": "ProjectName",
+  "uploadToken": "",
+  "configuration_version": 1,
+  "permissions": [
+    "ProjectName"
+  ],
+  "support": {}
+}
